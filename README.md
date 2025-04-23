@@ -22,8 +22,8 @@
 ---
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=development-nextios&show_icons=true&theme=dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=development-nextios&layout=compact&langs_count=16&theme=dark&include_all_commits=true"/>
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=cezarcozta&show_icons=true&theme=dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cezarcozta&layout=compact&langs_count=16&theme=dark&include_all_commits=true"/>
 </p>
 
 ---
@@ -41,23 +41,6 @@
 </div>
 
 <br><br>
-
-<div align="center">
-  <h3>🤝 Our Partners</h3>
-  <br>
-  <img src="https://www.nextios.com.br/wp-content/themes/nextios/img/partners/aws.png" alt="AWS" width="100" style="margin-right: 20px;">
-  <img src="https://www.nextios.com.br/wp-content/themes/nextios/img/partners/im.png" alt="Imperva" width="100" style="margin-right: 20px;">
-  <img src="https://www.nextios.com.br/wp-content/themes/nextios/img/partners/acronis.png" alt="Acronis" width="100" style="margin-right: 20px;">
-  <img src="https://www.nextios.com.br/wp-content/themes/nextios/img/partners/microsoft.png" alt="Microsoft" width="100" style="margin-right: 20px;">
-  <img src="https://www.nextios.com.br/wp-content/themes/nextios/img/partners/veeam.png" alt="Veeam" width="100" style="margin-right: 20px;">
-  <img src="https://www.nextios.com.br/wp-content/themes/nextios/img/partners/vmware.png" alt="VMware" width="100" style="margin-right: 20px;">
-  <img src="https://www.nextios.com.br/wp-content/themes/nextios/img/partners/ingram.png" alt="Ingram" width="100" style="margin-right: 20px;">
-  <img src="https://www.nextios.com.br/wp-content/themes/nextios/img/partners/crowdstrike.png" alt="CrowdStrike" width="100" style="margin-right: 20px;">
-  <img src="https://www.nextios.com.br/wp-content/themes/nextios/img/partners/dynatrace.png" alt="Dynatrace" width="100" style="margin-right: 20px;">
-  <img src="https://www.nextios.com.br/wp-content/themes/nextios/img/partners/gocache.png" alt="GoCache" width="100" style="margin-right: 20px;">
-  <img src="https://www.nextios.com.br/wp-content/themes/nextios/img/partners/google.png" alt="Google" width="100" style="margin-right: 20px;">
-  <img src="https://www.nextios.com.br/wp-content/themes/nextios/img/partners/redhat.png" alt="RedHat" width="100" style="margin-right: 20px;">
-</div>
 
 ---
 
