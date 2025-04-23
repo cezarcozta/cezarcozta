@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-  <h2>🌍 About cezarcozta</h2>
+  <h2>🌍 About CEZARCOZTA</h2>
 </div>
 
 🚀 **Driving digital transformation with cutting-edge technology**  
