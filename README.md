@@ -31,11 +31,9 @@
 <div align="center">
   <h3>💻 Technologies I Love</h3>
   <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" style="margin-right: 20px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" style="margin-right: 20px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" style="margin-right: 20px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" style="margin-right: 20px;">
-  <img src="https://th.bing.com/th/id/OIP.8VkjWRFL3ZXfYoFFF9PMnwAAAA?rs=1&pid=ImgDetMain" alt="AWS Lambda" width="50" style="margin-right: 20px;">
   <img src="https://www.nextios.com.br/wp-content/themes/nextios/img/partners/aws.png" alt="AWS" width="50" style="margin-right: 20px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure Functions" width="50" style="margin-right: 20px;">
 </div>
