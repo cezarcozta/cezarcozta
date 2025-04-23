@@ -1,17 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=236060&height=120&section=header"/>
 
 <div align="center">
-  <img src="https://www.nextios.com.br/wp-content/uploads/2023/10/Grupo-1477.png" width="300">
-  <br><br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=236060&center=true&vCenter=true&width=750&lines=Welcome+to+Nextios+GitHub!;Innovation+and+Technology+for+the+Future!">
-  </a>
-</div>
-
----
-
-<div align="center">
-  <h2>🌍 About CEZARCOZTA</h2>
+  <h2>Hello 🌍 I'm CEZARCOZTA</h2>
 </div>
 
 🚀 **Driving digital transformation with cutting-edge technology**  
