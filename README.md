@@ -16,8 +16,6 @@
   <a href="https://www.cezarcozta.com/contact" target="_blank"><img src="https://img.shields.io/badge/Contact_Us-236060?style=for-the-badge&logo=about-dot-me&logoColor=white"></a>
 </p>
 
----
-
 
 
 <h3 align="center">💻 Technologies I Love</h3>
@@ -26,7 +24,6 @@
     <img src="https://skillicons.dev/icons?i=ts,html,css,js,nodejs,express,react,bootstrap,python,fastapi,bash,cloudflare,aws,azure,gcp,postgres,nextjs,supabase,npm,git,github,githubactions,docker,terraform,kubernetes,linux,debian,windows,powershell,gmail&theme=dark" alt="Tech Stack"/>
   </a>
 </p>
----
 
 <h3 align="center">📊 GitHub Analytics</h3>
 
