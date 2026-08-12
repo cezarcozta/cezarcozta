@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  🔗 <b>Visite meu site:</b> <a href="https://www.cezarcozta.dev/">cezarcozta.dev</a>
+  🔗 <b>Web Portfolio:</b> <a href="https://www.cezarcozta.dev/">cezarcozta.dev</a>
 </p>
 
 <p align="center">
