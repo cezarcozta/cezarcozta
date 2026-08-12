@@ -21,17 +21,14 @@
 <h3 align="center">💻 Technologies I Love</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,python,aws,azure,gcp,postgres,nextjs&theme=dark" alt="Tech Stack"/>
-  <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23ffffff&width=54" alt="AI" width="54" title="Artificial Intelligence" style="margin-left: 12px; vertical-align: middle;">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,python,aws,azure,gcp,postgres,nextjs,tensorflow&theme=dark" alt="Tech Stack"/>
 </p>
 
 ---
 
-<h3 align="center">📊 GitHub Analytics</h3>
-
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=cezarcozta&show_icons=true&theme=dark&hide_border=true&hide_title=true&bg_color=0d1117&title_color=236060&icon_color=236060&text_color=c9d1d9&border_radius=10">
-  <img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=cezarcozta&layout=compact&langs_count=8&hide_title=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=236060&text_color=c9d1d9&border_radius=10">
+  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=cezarcozta&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=236060&icon_color=236060&text_color=c9d1d9&border_radius=10">
+  <img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=cezarcozta&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=236060&text_color=c9d1d9&border_radius=10">
 </p>
 
 <p align="center">
