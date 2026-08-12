@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=236060&height=160&section=header&text=C%C3%A9sar%20Costa&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=236060&height=160&section=header&text=C%C3%A9sar%20Augusto%20Costa&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com/">
