@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=cezarcozta&theme=react-dark&hide_border=true&bg_color=0d1117&color=236060&line=236060&point=ffffff&title=Activity+Graph">
+  <img width="56%" src="https://github-readme-activity-graph.vercel.app/graph?username=cezarcozta&theme=react-dark&hide_border=true&bg_color=0d1117&color=236060&line=236060&point=ffffff&title=Activity+Graph">
 </p>
 
 ---
