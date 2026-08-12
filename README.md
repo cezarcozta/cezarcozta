@@ -49,7 +49,7 @@
   <h3>💌 Contact Me</h3>
   <a href="https://www.linkedin.com/in/cezarcozta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/cezarcozta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.cezarcozta.com/contato/" target="_blank"><img src="https://img.shields.io/badge/Contact_Us-236060?style=for-the-badge&logo=about-dot-me&logoColor=white"></a>
+  <a href="https://www.cezarcozta.dev/contact" target="_blank"><img src="https://img.shields.io/badge/Contact_Us-236060?style=for-the-badge&logo=about-dot-me&logoColor=white"></a>
 </div>
 
 <br>
