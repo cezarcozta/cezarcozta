@@ -21,11 +21,8 @@
 <h3 align="center">💻 Technologies I Love</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" title="TypeScript" style="margin: 0 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" title="Node.js" style="margin: 0 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" title="Python" style="margin: 0 15px;">
-  <img src="https://www.nextios.com.br/wp-content/themes/nextios/img/partners/aws.png" alt="AWS" width="50" title="AWS" style="margin: 0 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure Functions" width="50" title="Azure" style="margin: 0 15px;">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,python,aws,azure,gcp,postgres,nextjs&theme=dark" alt="Tech Stack"/>
+  <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23ffffff&width=54" alt="AI" width="54" title="Artificial Intelligence" style="margin-left: 12px; vertical-align: middle;">
 </p>
 
 ---
