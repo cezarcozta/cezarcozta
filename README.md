@@ -27,17 +27,15 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=cezarcozta&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=236060&icon_color=236060">
-  <img width="46%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=cezarcozta&layout=compact&langs_count=16&theme=dark&hide_border=true&bg_color=0d1117&title_color=236060">
+  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=cezarcozta&show_icons=true&theme=dark&hide_border=true&hide_title=true&bg_color=0d1117&title_color=236060&icon_color=236060&text_color=c9d1d9&border_radius=10">
+  <img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=cezarcozta&layout=compact&langs_count=8&hide_title=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=236060&text_color=c9d1d9&border_radius=10">
 </p>
 
-<h3 align="center">📈 Activity Graph</h3>
-
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=cezarcozta&theme=react-dark&hide_border=true&bg_color=0d1117&color=236060&line=236060&point=ffffff">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=cezarcozta&theme=react-dark&hide_border=true&bg_color=0d1117&color=236060&line=236060&point=ffffff&title=Activity+Graph">
 </p>
 
 ---
