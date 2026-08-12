@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=236060&height=160&section=header&text=Cezar%20Cozta&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=236060&height=160&section=header&text=C%C3%A9sar%20Costa&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com/">
@@ -33,8 +33,8 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cezarcozta&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=236060&icon_color=236060">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cezarcozta&layout=compact&langs_count=16&theme=dark&hide_border=true&bg_color=0d1117&title_color=236060">
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=cezarcozta&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=236060&icon_color=236060">
+  <img width="46%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=cezarcozta&layout=compact&langs_count=16&theme=dark&hide_border=true&bg_color=0d1117&title_color=236060">
 </p>
 
 <h3 align="center">📈 Activity Graph</h3>
