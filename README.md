@@ -21,7 +21,7 @@
 <h3 align="center">💻 Technologies I Love</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,python,aws,azure,gcp,postgres,nextjs,npm,git,github&theme=dark" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=ts,html,js,nodejs,express,react,python,fastapi,bash,cloudflare,aws,azure,gcp,postgres,nextjs,supabase,npm,git,github,githubactions,docker,kubernets,terraform,linux,powershell&theme=dark" alt="Tech Stack"/>
 </p>
 
 ---
@@ -29,12 +29,12 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-stats.shion.dev/api?username=cezarcozta&show_icons=true&hide_title=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=236060&icon_color=236060&text_color=c9d1d9&border_radius=10"><br>
-  <img width="70%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=cezarcozta&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=236060&text_color=c9d1d9&border_radius=10">
+  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=cezarcozta&show_icons=true&hide_title=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=236060&icon_color=236060&text_color=c9d1d9&border_radius=10"><br>
+  <img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=cezarcozta&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=236060&text_color=c9d1d9&border_radius=10">
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=cezarcozta&theme=react-dark&hide_border=true&bg_color=0d1117&color=236060&line=236060&point=ffffff&title=Activity+Graph">
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=cezarcozta&theme=react-dark&hide_border=true&bg_color=0d1117&color=236060&line=236060&point=ffffff&title=Activity+Graph">
 </p>
 
 ---
