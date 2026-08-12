@@ -7,13 +7,13 @@
 </div>
 
 <p align="center">
-  🔗 <b>Visite meu site:</b> <a href="https://www.cezarcozta.com/">cezarcozta.com</a>
+  🔗 <b>Visite meu site:</b> <a href="https://www.cezarcozta.dev/">cezarcozta.dev</a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cezarcozta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/cezarcozta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.cezarcozta.com/contato/" target="_blank"><img src="https://img.shields.io/badge/Contact_Us-236060?style=for-the-badge&logo=about-dot-me&logoColor=white"></a>
+  <a href="https://www.cezarcozta.com/contact" target="_blank"><img src="https://img.shields.io/badge/Contact_Us-236060?style=for-the-badge&logo=about-dot-me&logoColor=white"></a>
 </p>
 
 ---
