@@ -18,12 +18,14 @@
 
 ---
 
+
+
 <h3 align="center">💻 Technologies I Love</h3>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,html,js,nodejs,express,react,python,fastapi,bash,cloudflare,aws,azure,gcp,postgres,nextjs,supabase,npm,git,github,githubactions,docker,kubernets,terraform,linux,powershell&theme=dark" alt="Tech Stack"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,html,js,nodejs,express,react,python,fastapi,bash,cloudflare,aws,azure,gcp,postgres,nextjs,supabase,npm,git,github,githubactions,docker,terraform,linux,powershell&theme=dark" alt="Tech Stack"/>
+  </a>
 </p>
-
 ---
 
 <h3 align="center">📊 GitHub Analytics</h3>
